@@ -1,11 +1,22 @@
 # 🧠 Student Burnout Analysis & Prediction
 
-🚀 A data science project that analyzes student behavioral patterns and predicts burnout levels using Machine Learning.
+> 🚀 Predict student stress using behavioral data with Machine Learning and a real-time interactive dashboard.
+
+---
+
+## 🏆 Highlights
+
+✔ Real-time burnout prediction  
+✔ Interactive Streamlit dashboard  
+✔ Behavioral radar chart visualization  
+✔ Data-driven insights for lifestyle improvement  
+✔ Clean and intuitive UI  
+
+---
+
+## 🧰 Tech Stack
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-![Made With](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
-
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-red.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2.2-purple.svg)
@@ -13,91 +24,69 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4.2-yellow.svg)
 ![Plotly](https://img.shields.io/badge/Plotly-5.22.0-lightblue.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.4-green.svg)
-
-![IDE](https://img.shields.io/badge/VS%20Code-Editor-blue.svg)
-![Framework](https://img.shields.io/badge/ML-Linear%20Regression-success.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20Streamlit-blueviolet.svg)
 ---
 
-## 📌 Overview
+## 🔗 Overview
 
-Student burnout is a growing issue caused by academic pressure, poor sleep, and excessive screen time.
-
-This project uses **data analysis + machine learning** to:
-
-* Identify key factors affecting burnout
-* Analyze behavioral patterns
-* Predict burnout levels in real-time
-
----
-
-## 🎯 Features
-
-* 📊 Exploratory Data Analysis (EDA)
-* 🧠 Burnout Prediction using Linear Regression
-* 💻 Interactive Streamlit Web App
-* 📈 Radar Chart for behavior visualization
-* ⚡ Real-time prediction system
-* 💡 Personalized recommendations based on stress level
+Student burnout is rising due to academic pressure, poor sleep, and excessive screen time.  
+This project uses **data science + machine learning** to analyze behavioral patterns and predict burnout levels in real-time.
 
 ---
 
 ## 🧠 Machine Learning Model
 
-* **Algorithm Used:** Linear Regression
+- **Algorithm:** Linear Regression  
 
-* **Input Features:**
+- **Input Features:**
+  - Sleep Hours  
+  - Study Hours  
+  - Screen Time  
+  - Focus Index  
+  - Exercise Minutes  
+  - Social Media Usage  
 
-  * Sleep Hours
-  * Study Hours
-  * Screen Time
-  * Focus Index
-  * Exercise Minutes
-  * Social Media Usage
-
-* **Output:**
-
-  * Burnout Score (0–100)
-  * Category:
-
-    * 🟢 Low
-    * 🟡 Moderate
-    * 🔴 High
+- **Output:**
+  - Burnout Score (0–100)
+  - Categories:
+    - 🟢 Low
+    - 🟡 Moderate
+    - 🔴 High  
 
 ---
 
 ## 📊 Dataset
 
-* Source: Kaggle
-* ~5000 student records
-* 21 features
+- Source: Kaggle  
+- ~5000 student records  
+- 21 features  
 
 Includes:
-
-* Sleep habits
-* Study behavior
-* Screen usage
-* Productivity
-* Burnout level
-
----
-
-## 🛠️ Tech Stack
-
-* **Python**
-* **Pandas, NumPy**
-* **Matplotlib**
-* **Scikit-learn**
-* **Plotly**
-* **Streamlit**
+- Sleep habits  
+- Study behavior  
+- Screen usage  
+- Productivity  
+- Burnout level  
 
 ---
 
-## 📂 Project Structure
+## 📈 Key Insights
 
-```
+- 💤 More sleep → Lower burnout  
+- 📱 Higher screen time → Higher stress  
+- 📊 Balanced lifestyle → Better performance  
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/your-username/student-burnout-analysis.git
+cd student-burnout-analysis
+pip install -r requirements.txt
+streamlit run app.py
+
 student-burnout-analysis/
 │
 ├── data/
@@ -108,77 +97,23 @@ student-burnout-analysis/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-```
+├── LICENSE
 
----
+⚠️ Limitations
+Uses Linear Regression (basic model)
+Depends on dataset quality
+Not a medical diagnostic tool
+🚀 Future Scope
+Advanced ML models (Random Forest, Neural Networks)
+Real-time data integration
+Mobile/web deployment
+AI-based personalized recommendations
 
-## ▶️ How to Run Locally
+👨‍💻 Author
+Aryan Gupta
+Linked-in: https://www.linkedin.com/in/aryan-gupta-33741a251/
+⭐ Support
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/student-burnout-analysis.git
-cd student-burnout-analysis
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the app
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 📷 Output Preview
-
-👉 Add screenshots here (important for GitHub)
-
-* Dashboard UI
-* Radar Chart
-* Prediction Output
-
----
-
-## 📈 Key Insights
-
-* 💤 More sleep → Lower burnout
-* 📱 Higher screen time → Higher stress
-* 📊 Balanced lifestyle → Better performance
-
----
-
-## ⚠️ Limitations
-
-* Uses a simple Linear Regression model
-* Depends on dataset quality
-* Not a medical diagnostic tool
-
----
-
-## 🚀 Future Scope
-
-* Use advanced ML models (Random Forest, Neural Networks)
-* Deploy as a mobile/web app
-* Use real-time student data
-* Add AI-based recommendations
-
----
-
-## 👨‍💻 Author
-
-**Aryan Gupta**
+If you found this project useful, consider giving it a ⭐ on GitHub!
 
 
----
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
-
----
