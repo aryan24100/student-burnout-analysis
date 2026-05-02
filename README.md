@@ -156,7 +156,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Aryan Gupta**
-Data Science Project
+
 
 ---
 
