@@ -112,8 +112,6 @@ AI-based personalized recommendations
 👨‍💻 Author
 Aryan Gupta
 Linked-in: https://www.linkedin.com/in/aryan-gupta-33741a251/
+
 ⭐ Support
-
 If you found this project useful, consider giving it a ⭐ on GitHub!
-
-
