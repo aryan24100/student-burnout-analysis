@@ -3,9 +3,8 @@
 🚀 A data science project that analyzes student behavioral patterns and predicts burnout levels using Machine Learning.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Made With](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Made With](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-red.svg)
