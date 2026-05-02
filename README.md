@@ -5,6 +5,21 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Made With](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-red.svg)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.2-purple.svg)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-orange.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4.2-yellow.svg)
+![Plotly](https://img.shields.io/badge/Plotly-5.22.0-lightblue.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.4-green.svg)
+
+![IDE](https://img.shields.io/badge/VS%20Code-Editor-blue.svg)
+![Framework](https://img.shields.io/badge/ML-Linear%20Regression-success.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+
+![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20Streamlit-blueviolet.svg)
 ---
 
 ## 📌 Overview
